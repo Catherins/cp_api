@@ -1,4 +1,5 @@
 from scrapy import cmdline
+<<<<<<< HEAD
 from apscheduler.schedulers.blocking import BlockingScheduler
 from datetime import datetime
 
@@ -21,3 +22,6 @@ except Exception as e:
 
 
 
+=======
+cmdline.execute("scrapy crawl jngp".split())
+>>>>>>> 73e3b0861c975ca93b49d03bd30ff277d362e20b

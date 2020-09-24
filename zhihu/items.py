@@ -18,6 +18,7 @@ class GopinItem(scrapy.Item):
      qihao = scrapy.Field()
      kaijiang_day = scrapy.Field()
      kaijiang_data = scrapy.Field()
+<<<<<<< HEAD
      kaijiang_numb = scrapy.Field()
 
 
@@ -32,3 +33,6 @@ class ShishicaiItem(scrapy.Item):
      kaijiang_numb = scrapy.Field()
      #开奖日期
      kaijiang_day = scrapy.Field()
+=======
+     kaijiang_numb = scrapy.Field()
+>>>>>>> 73e3b0861c975ca93b49d03bd30ff277d362e20b

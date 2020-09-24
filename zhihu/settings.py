@@ -24,7 +24,10 @@ MONGODB_PORT = 27017
 MONGODB_DBNAME = 'test'
 MONGODB_DOCNAME = 'caicai'
 MONGODB_DOCNAME_GP = 'gaopin'
+<<<<<<< HEAD
 MONGODB_DOCNAME_SSC = 'shishicai'
+=======
+>>>>>>> 73e3b0861c975ca93b49d03bd30ff277d362e20b
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'zhihu (+http://www.yourdomain.com)'
@@ -77,6 +80,7 @@ ROBOTSTXT_OBEY = False
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
     'zhihu.pipelines.ZhihuPipeline': 300,
+<<<<<<< HEAD
     'zhihu.pipelines.GaopinPipeline': 301,
     'zhihu.pipelines.ShishicaiPipeline': 302,
 
@@ -103,6 +107,10 @@ USER_AGENT_LIST = [
     "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/535.24 (KHTML, like Gecko) Chrome/19.0.1055.1 Safari/535.24"
 ]
 
+=======
+}
+
+>>>>>>> 73e3b0861c975ca93b49d03bd30ff277d362e20b
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html
 #AUTOTHROTTLE_ENABLED = True
