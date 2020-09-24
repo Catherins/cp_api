@@ -16,7 +16,7 @@ class ExampleSpider(scrapy.Spider):
         this_machine = 'master'
         print('开始分布式爬虫')
         if this_machine == 'master':
-            url = 'D:\\python\\PycharmProjects\\zhihu\\urlsFiles\\jndp.txt'
+            url = r"D:\python\PycharmProjects\zhihu\zhihu\sources\jndp.txt"
             push_redis(url,'crawlC_url')
         else:
             items = get_redis_crawl(self.name)

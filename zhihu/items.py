@@ -32,3 +32,5 @@ class ShishicaiItem(scrapy.Item):
      kaijiang_numb = scrapy.Field()
      #开奖日期
      kaijiang_day = scrapy.Field()
+
+

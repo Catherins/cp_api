@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e0d8fcc8-fc24-4c0a-b428-ddd9da0fc9a9" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/zhihu.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/zhihu.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jndp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jngp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhihu/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/zhihu/items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhihu/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/zhihu/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhihu/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/zhihu/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhihu/spiders/crawlA.py" beforeDir="false" afterPath="$PROJECT_DIR$/zhihu/spiders/crawlA.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhihu/spiders/crawlB.py" beforeDir="false" afterPath="$PROJECT_DIR$/zhihu/spiders/crawlB.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhihu/spiders/crawlC.py" beforeDir="false" afterPath="$PROJECT_DIR$/zhihu/spiders/crawlC.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhihu/spiders/example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhihu/spiders/jngp.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hfZP8Ou9zxWwzxPIwF7xX5g2uw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\python\PycharmProjects\zhihu" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python">
+      <module name="zhihu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0d8fcc8-fc24-4c0a-b428-ddd9da0fc9a9" name="默认更改列表" comment="" />
+      <created>1600404079888</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600404079888</updated>
+      <workItem from="1600404085620" duration="502000" />
+      <workItem from="1600509343853" duration="13928000" />
+      <workItem from="1600526526889" duration="4850000" />
+      <workItem from="1600533491785" duration="1966000" />
+      <workItem from="1600537527793" duration="5700000" />
+      <workItem from="1600589239141" duration="2684000" />
+      <workItem from="1600612848935" duration="44000" />
+      <workItem from="1600613204542" duration="3602000" />
+      <workItem from="1600756033344" duration="3000" />
+      <workItem from="1600756044358" duration="9052000" />
+      <workItem from="1600960660096" duration="3083000" />
+      <workItem from="1600998361291" duration="1394000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="260" y="0" key="#Inspections" timestamp="1600517793768">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="260" y="0" key="#Inspections/0.0.1280.680@0.0.1280.680" timestamp="1600517793768" />
+    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600540999671">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1600540999671" />
+    <state x="420" y="95" key="FileChooserDialogImpl" timestamp="1600620317639">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="420" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1600620317639" />
+    <state width="1222" height="274" key="GridCell.Tab.0.bottom" timestamp="1600963746297">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="274" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1600963746297" />
+    <state width="1222" height="274" key="GridCell.Tab.0.center" timestamp="1600963746297">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="274" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1600963746297" />
+    <state width="1222" height="274" key="GridCell.Tab.0.left" timestamp="1600963746297">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="274" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1600963746297" />
+    <state width="1222" height="274" key="GridCell.Tab.0.right" timestamp="1600963746297">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="274" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1600963746297" />
+    <state width="1222" height="274" key="GridCell.Tab.1.bottom" timestamp="1600963746297">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="274" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1600963746297" />
+    <state width="1222" height="274" key="GridCell.Tab.1.center" timestamp="1600963746297">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="274" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1600963746297" />
+    <state width="1222" height="274" key="GridCell.Tab.1.left" timestamp="1600963746297">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="274" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1600963746297" />
+    <state width="1222" height="274" key="GridCell.Tab.1.right" timestamp="1600963746297">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="274" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1600963746297" />
+    <state x="169" y="0" key="SettingsEditor" timestamp="1600533707503">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="169" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1600533707503" />
+    <state x="303" y="1" width="672" height="160" key="search.everywhere.popup" timestamp="1600520579782">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="160" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1600520579782" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/zhihu$main.coverage" NAME="main Coverage Results" MODIFIED="1600998625948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

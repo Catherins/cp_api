@@ -16,7 +16,7 @@ class JngpSpider(scrapy.Spider):
         this_machine = 'master'
         print('开始分布式爬虫')
         if this_machine == 'master':
-            url = 'D:\\python\\PycharmProjects\\zhihu\\urlsFiles\\jngp.txt'
+            url = r"D:\python\PycharmProjects\zhihu\zhihu\sources\jngp.txt"
             push_redis(url,'crawlB_url')
         else:
             items = get_redis_crawl(self.name)

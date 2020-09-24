@@ -26,6 +26,7 @@ MONGODB_DOCNAME = 'caicai'
 MONGODB_DOCNAME_GP = 'gaopin'
 MONGODB_DOCNAME_SSC = 'shishicai'
 
+
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'zhihu (+http://www.yourdomain.com)'
 
